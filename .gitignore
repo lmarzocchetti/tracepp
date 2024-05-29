@@ -1,0 +1,6 @@
+CMakePresets.json
+vcpkg.json
+
+out/
+vcpkg_installed/
+.vs/
