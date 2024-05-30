@@ -4,3 +4,6 @@ vcpkg.json
 out/
 vcpkg_installed/
 .vs/
+cmake-build-debug/
+cmake-build-release/
+.idea/

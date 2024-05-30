@@ -10,7 +10,6 @@ auto main() -> int {
     auto ply{ trace::load_ply("../models/sphere_ascii.ply") };
 #endif // _WIN32
 
-
-
+    
     return 0;
 }
